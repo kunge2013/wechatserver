@@ -16,7 +16,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by qhong on 2018/7/3 16:52
+ * Created by fk
  **/
 @Configuration
 public class OkHttpConfig {
